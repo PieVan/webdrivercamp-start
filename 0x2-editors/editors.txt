@@ -1,0 +1,19 @@
+EMACs
+
+0 - C-x C-f // open
+1 - C-x C-s // save
+2 - C-a C-k //cut entire one
+3 - C-y //paste
+4 - C-s //search
+5 - C-/ or C-x //undo
+6 - C-x C-c //exit/quite
+
+VIM
+
+7 - i //insert
+8 - dd //delete/cut line
+9 - p  //paste
+10 - u //undo
+11 - :q! //forse quite withiut save
+12 - 0 or ^ //move to the begining of the line
+13 - $ //move to the end of the line
